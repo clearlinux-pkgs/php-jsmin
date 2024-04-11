@@ -7,7 +7,7 @@
 #
 Name     : php-jsmin
 Version  : 3.0.0
-Release  : 57
+Release  : 58
 URL      : https://pecl.php.net//get/jsmin-3.0.0.tgz
 Source0  : https://pecl.php.net//get/jsmin-3.0.0.tgz
 Summary  : No detailed summary available
